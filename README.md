@@ -125,7 +125,7 @@ Dieses Projekt ist unter der YSA Lizenz lizenziert - siehe [LICENSE](LICENSE) Da
 
 ## 👥 Autor
 
-**El Haddoury Younes** - *Initial work* - [GitHub] https://github.com/elhy17)
+**El Haddoury Younes Ayman Alshian Saad Akki ** - *Initial work* 
 
 ## 🙏 Danksagungen
 

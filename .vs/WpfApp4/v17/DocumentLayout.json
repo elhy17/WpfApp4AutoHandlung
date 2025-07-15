@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bib\\source\\repos\\WpfApp4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6C5C16A-1943-4B83-A33B-9B0680A662FE}|WpfApp4\\WpfApp4.csproj|c:\\users\\bib\\source\\repos\\wpfapp4\\wpfapp4\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6C5C16A-1943-4B83-A33B-9B0680A662FE}|WpfApp4\\WpfApp4.csproj|solutionrelative:wpfapp4\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6C5C16A-1943-4B83-A33B-9B0680A662FE}|WpfApp4\\WpfApp4.csproj|c:\\users\\bib\\source\\repos\\wpfapp4\\wpfapp4\\pdfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6C5C16A-1943-4B83-A33B-9B0680A662FE}|WpfApp4\\WpfApp4.csproj|solutionrelative:wpfapp4\\pdfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6C5C16A-1943-4B83-A33B-9B0680A662FE}|WpfApp4\\WpfApp4.csproj|c:\\users\\bib\\source\\repos\\wpfapp4\\wpfapp4\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6C5C16A-1943-4B83-A33B-9B0680A662FE}|WpfApp4\\WpfApp4.csproj|solutionrelative:wpfapp4\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6C5C16A-1943-4B83-A33B-9B0680A662FE}|WpfApp4\\WpfApp4.csproj|c:\\users\\bib\\source\\repos\\wpfapp4\\wpfapp4\\fahrzeugverwaltung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6C5C16A-1943-4B83-A33B-9B0680A662FE}|WpfApp4\\WpfApp4.csproj|solutionrelative:wpfapp4\\fahrzeugverwaltung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6C5C16A-1943-4B83-A33B-9B0680A662FE}|WpfApp4\\WpfApp4.csproj|c:\\users\\bib\\source\\repos\\wpfapp4\\wpfapp4\\fahrzeug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6C5C16A-1943-4B83-A33B-9B0680A662FE}|WpfApp4\\WpfApp4.csproj|solutionrelative:wpfapp4\\fahrzeug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6C5C16A-1943-4B83-A33B-9B0680A662FE}|WpfApp4\\WpfApp4.csproj|c:\\users\\bib\\source\\repos\\wpfapp4\\wpfapp4\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F6C5C16A-1943-4B83-A33B-9B0680A662FE}|WpfApp4\\WpfApp4.csproj|solutionrelative:wpfapp4\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6C5C16A-1943-4B83-A33B-9B0680A662FE}|WpfApp4\\WpfApp4.csproj|c:\\users\\bib\\source\\repos\\wpfapp4\\wpfapp4\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F6C5C16A-1943-4B83-A33B-9B0680A662FE}|WpfApp4\\WpfApp4.csproj|solutionrelative:wpfapp4\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6C5C16A-1943-4B83-A33B-9B0680A662FE}|WpfApp4\\WpfApp4.csproj|c:\\users\\bib\\source\\repos\\wpfapp4\\wpfapp4\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6C5C16A-1943-4B83-A33B-9B0680A662FE}|WpfApp4\\WpfApp4.csproj|solutionrelative:wpfapp4\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6C5C16A-1943-4B83-A33B-9B0680A662FE}|WpfApp4\\WpfApp4.csproj|c:\\users\\bib\\source\\repos\\wpfapp4\\wpfapp4\\wpfapp4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F6C5C16A-1943-4B83-A33B-9B0680A662FE}|WpfApp4\\WpfApp4.csproj|solutionrelative:wpfapp4\\wpfapp4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 247,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WpfApp4.csproj",
+              "DocumentMoniker": "C:\\Users\\bib\\source\\repos\\WpfApp4\\WpfApp4\\WpfApp4.csproj",
+              "RelativeDocumentMoniker": "WpfApp4\\WpfApp4.csproj",
+              "ToolTip": "C:\\Users\\bib\\source\\repos\\WpfApp4\\WpfApp4\\WpfApp4.csproj",
+              "RelativeToolTip": "WpfApp4\\WpfApp4.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-15T10:49:09.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bib\\source\\repos\\WpfApp4\\WpfApp4\\App.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp4\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\bib\\source\\repos\\WpfApp4\\WpfApp4\\App.xaml.cs",
+              "RelativeToolTip": "WpfApp4\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T12:08:49.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\bib\\source\\repos\\WpfApp4\\WpfApp4\\App.xaml",
+              "RelativeDocumentMoniker": "WpfApp4\\App.xaml",
+              "ToolTip": "C:\\Users\\bib\\source\\repos\\WpfApp4\\WpfApp4\\App.xaml",
+              "RelativeToolTip": "WpfApp4\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-14T12:08:18.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PdfService.cs",
+              "DocumentMoniker": "C:\\Users\\bib\\source\\repos\\WpfApp4\\WpfApp4\\PdfService.cs",
+              "RelativeDocumentMoniker": "WpfApp4\\PdfService.cs",
+              "ToolTip": "C:\\Users\\bib\\source\\repos\\WpfApp4\\WpfApp4\\PdfService.cs",
+              "RelativeToolTip": "WpfApp4\\PdfService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T12:05:46.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatabaseService.cs",
+              "DocumentMoniker": "C:\\Users\\bib\\source\\repos\\WpfApp4\\WpfApp4\\DatabaseService.cs",
+              "RelativeDocumentMoniker": "WpfApp4\\DatabaseService.cs",
+              "ToolTip": "C:\\Users\\bib\\source\\repos\\WpfApp4\\WpfApp4\\DatabaseService.cs",
+              "RelativeToolTip": "WpfApp4\\DatabaseService.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAzwCUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T12:04:21.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\bib\\source\\repos\\WpfApp4\\WpfApp4\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp4\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\bib\\source\\repos\\WpfApp4\\WpfApp4\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp4\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-08T06:16:53.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Fahrzeug.cs",
+              "DocumentMoniker": "C:\\Users\\bib\\source\\repos\\WpfApp4\\WpfApp4\\Fahrzeug.cs",
+              "RelativeDocumentMoniker": "WpfApp4\\Fahrzeug.cs",
+              "ToolTip": "C:\\Users\\bib\\source\\repos\\WpfApp4\\WpfApp4\\Fahrzeug.cs",
+              "RelativeToolTip": "WpfApp4\\Fahrzeug.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T20:58:44.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FahrzeugVerwaltung.cs",
+              "DocumentMoniker": "C:\\Users\\bib\\source\\repos\\WpfApp4\\WpfApp4\\FahrzeugVerwaltung.cs",
+              "RelativeDocumentMoniker": "WpfApp4\\FahrzeugVerwaltung.cs",
+              "ToolTip": "C:\\Users\\bib\\source\\repos\\WpfApp4\\WpfApp4\\FahrzeugVerwaltung.cs",
+              "RelativeToolTip": "WpfApp4\\FahrzeugVerwaltung.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAA1wIQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T06:51:06.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bib\\source\\repos\\WpfApp4\\WpfApp4\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp4\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\bib\\source\\repos\\WpfApp4\\WpfApp4\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp4\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T06:16:49.191Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
